@@ -37,8 +37,7 @@ class _Screen1State extends State<Screen1> {
         title: const Text('Screen 1'),
       ),
       body: Container(
-        color:
-            const Color.fromARGB(255, 129, 141, 207), // Nice background color
+        color: const Color.fromARGB(255, 129, 141, 207),
         child: Center(
           child: SingleChildScrollView(
             child: Padding(
@@ -95,8 +94,8 @@ class _Screen1State extends State<Screen1> {
                         ElevatedButton(
                           onPressed: _navigateToScreen2,
                           style: ElevatedButton.styleFrom(
-                            backgroundColor: Colors.indigo, // Button color
-                            foregroundColor: Colors.white, // Text color
+                            backgroundColor: Colors.indigo,
+                            foregroundColor: Colors.white,
                             padding: const EdgeInsets.symmetric(
                                 horizontal: 32, vertical: 16),
                             shape: RoundedRectangleBorder(

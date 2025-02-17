@@ -18,10 +18,10 @@ com.example.input_validation.app-lifecycle-runtime-2.7.0-16 /Users/drdrey/.gradl
 com.example.input_validation.app-jetified-core-1.0.0-17 /Users/drdrey/.gradle/caches/transforms-3/c31a4bb5a15a2ee7a96dbe06c89e85f5/transformed/jetified-core-1.0.0/res
 com.example.input_validation.app-jetified-lifecycle-process-2.7.0-18 /Users/drdrey/.gradle/caches/transforms-3/dbde9cdc77876e4df7bbc93ff1556b43/transformed/jetified-lifecycle-process-2.7.0/res
 com.example.input_validation.app-jetified-startup-runtime-1.1.1-19 /Users/drdrey/.gradle/caches/transforms-3/fabdcf8916c57220c7a394d04ce23100/transformed/jetified-startup-runtime-1.1.1/res
-com.example.input_validation.app-debug-20 /Users/drdrey/Desktop/input_validation/android/app/src/debug/res
-com.example.input_validation.app-main-21 /Users/drdrey/Desktop/input_validation/android/app/src/main/res
-com.example.input_validation.app-pngs-22 /Users/drdrey/Desktop/input_validation/build/app/generated/res/pngs/debug
-com.example.input_validation.app-resValues-23 /Users/drdrey/Desktop/input_validation/build/app/generated/res/resValues/debug
-com.example.input_validation.app-packageDebugResources-24 /Users/drdrey/Desktop/input_validation/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.input_validation.app-packageDebugResources-25 /Users/drdrey/Desktop/input_validation/build/app/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.input_validation.app-merged_res-26 /Users/drdrey/Desktop/input_validation/build/app/intermediates/merged_res/debug
+com.example.input_validation.app-debug-20 /Users/drdrey/Downloads/Input-Validation/android/app/src/debug/res
+com.example.input_validation.app-main-21 /Users/drdrey/Downloads/Input-Validation/android/app/src/main/res
+com.example.input_validation.app-pngs-22 /Users/drdrey/Downloads/Input-Validation/build/app/generated/res/pngs/debug
+com.example.input_validation.app-resValues-23 /Users/drdrey/Downloads/Input-Validation/build/app/generated/res/resValues/debug
+com.example.input_validation.app-packageDebugResources-24 /Users/drdrey/Downloads/Input-Validation/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.input_validation.app-packageDebugResources-25 /Users/drdrey/Downloads/Input-Validation/build/app/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.input_validation.app-merged_res-26 /Users/drdrey/Downloads/Input-Validation/build/app/intermediates/merged_res/debug
